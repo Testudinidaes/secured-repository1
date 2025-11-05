@@ -1,0 +1,13 @@
+{
+  "name": "claimable-dep-demo-secure",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure demo repo: same as claimable-dep-demo but without unclaimed packages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11"
+  }
+}
